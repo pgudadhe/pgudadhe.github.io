@@ -12,6 +12,7 @@
 
 [First SC_MODULE "Hello World" with VS Code via WSL](https://pgudadhe.github.io/SystemC-Setup-for-VSCode-Windows/vscode_sc_hello_world_cpp)
 
+[Code repository for SystemC Hello World Project](https://github.com/pgudadhe/SC_Remote)
 
 
 ## Move to Front (MTF) Compression Transform
