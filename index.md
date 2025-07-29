@@ -8,7 +8,9 @@
 
 [Installing SystemC on WSL](https://pgudadhe.github.io/SystemC-Setup-for-VSCode-Windows/systemc)
 
-[First SC_MODULE "Hello World" with VS Code via WSL](https://pgudadhe.github.io/SystemC-Setup-for-VSCode-Windows/systemc)
+[VS Code & WSL Link up and project setup](https://pgudadhe.github.io/SystemC-Setup-for-VSCode-Windows/systemc)
+
+[First SC_MODULE "Hello World" with VS Code via WSL](https://pgudadhe.github.io/SystemC-Setup-for-VSCode-Windows/vscode_sc_hello_world_cpp)
 
 
 
