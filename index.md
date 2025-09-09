@@ -20,6 +20,13 @@
 [AMBA AXI Approximately Timed TLM Performance Model](https://github.com/pgudadhe/AXI_TLM_Perf_Model)
 
 
+## NoC Pin-Accurate Performance Model
+[NoC Pin-Accurate Performance Model 4X4 Mesh Topology, 5x5 Wormhole Router, XY Routing Algorithm](https://github.com/pgudadhe/NoC-Pin-Accurate-Performance-Model)
+
+
+## AMBA AXI Power Model 
+[AMBA AXI Approximately Timed TLM Power Mode](https://github.com/pgudadhe/AXI_TLM_Power_Model)
+
 
 ## Move to Front (MTF) Compression Transform
 [MTF Transform](https://github.com/pgudadhe/MTF-Transform)
@@ -29,5 +36,5 @@
 [Bitwise Operations - Bitfield Utility for HW Register Modeling](https://github.com/pgudadhe/BitwiseOperations)
 
 
-## CXL Power Model
+## CXL Cache Coherent Performance Model
 [Coming Soon]
