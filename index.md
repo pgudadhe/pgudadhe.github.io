@@ -24,6 +24,9 @@
 [NoC Pin-Accurate Performance Model 4X4 Mesh Topology, 5x5 Wormhole Router, XY Routing Algorithm](https://github.com/pgudadhe/NoC-Pin-Accurate-Performance-Model)
 
 
+## Cache Simulator Model
+[Cache Simulator with Set associativity, LRU/FIFO replacement policies, Write Allocation policies, etc](https://github.com/pgudadhe/Cache-Simulator/)
+
 ## AMBA AXI Power Model 
 [AMBA AXI Approximately Timed TLM Power Mode](https://github.com/pgudadhe/AXI_TLM_Power_Model)
 
